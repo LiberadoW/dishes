@@ -19,6 +19,6 @@ This project is a recruitment task for HexOcean. It took me about 5 hours to com
 To run this project, install it locally using npm:
 
 ```
-$ npm install
-$ npm run dev
+npm install
+npm run dev
 ```
